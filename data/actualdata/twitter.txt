@@ -1,0 +1,12 @@
+consumerKey VLFFRNbv3zVBHCZ75J68wcXz0
+consumerSecret WIwpaaHDkrBYHbWUM7tUjD1WvlBghzdXiXNc0Z6xAEgzDhgi1p
+accessToken 1325373265544556544-adgupYc3t88o6SoPhEOspDmstBtoSG
+accessTokenSecret UX32EsaruwxMtt3jYPbpw6KotqjlpzItT7ML74Vz3kR9h
+
+BOOTSTRAP_SERVERS = "localhost:9092"
+TOPIC = "TwitterData"
+
+KEYWORDS = "Scala,Apache,Spark,Kafka,Data"
+LANGUAGES = "en"
+
+MASTER_URL = "local[*]"

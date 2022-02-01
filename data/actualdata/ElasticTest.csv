@@ -1,0 +1,5 @@
+Text,senti,classify
+"This is a test0",positive,0.0
+"This is a test2",positive,2.0
+"This is a test4",positive,4.0
+"This is a test6",positive,6.0
